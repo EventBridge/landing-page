@@ -143,6 +143,28 @@ body {
     border-radius: 10px;
 }
 
+.three {
+    background-color: #e5e7eb;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0 300px;
+    color: #1f2937;
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+}
+
+.quote-author {
+    width: 100%;
+    text-align: right;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 24px;
+    padding-right: 60px;
+}
+
 .footer {
     justify-content: center;
     align-items: center;

@@ -165,6 +165,35 @@ body {
     padding-right: 60px;
 }
 
+.four {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.action-container {
+    display: flex;
+    align-items: center;
+    gap: 160px;
+    padding: 40px 160px;
+    background-color: #3882f6;
+    border-radius: 12px;
+}
+
+.action-container div h2 {
+    color: #f9faf8;
+}
+
+.action-container div p {
+    color: #e5e7eb;
+    margin: 5px 0;
+}
+
+.action-container button {
+    border: solid;
+    border-color: #f9faf8;
+}
+
 .footer {
     justify-content: center;
     align-items: center;
